@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+#este proyecto puede ir en cuarquier carpeta del servidor donde se ejecuta el back, pero es preferible colocarla dentro de la carpteta raiz que sirve las api spring-boot
 
 ## Available Scripts
 
