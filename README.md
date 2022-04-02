@@ -8,6 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## este proyecto puede ir en cuarquier carpeta del servidor donde se ejecuta el back, pero es preferible colocarla dentro de la carpteta raiz que sirve las api spring-boot
 
+
+1. Descragar o clonar el repositorio y desde una terminal con node instado, en su directorio raiz debe ejecutar nmp i o nmp install para instalar todas las dependencias.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
